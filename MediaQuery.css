@@ -1,0 +1,134 @@
+.one{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+}
+@media (max-width: 991.98px){
+.one{
+    background-color: yellow;
+    float:none
+}
+}
+@media screen and (max-width:500px){
+    .one{
+        background-color: #ff0000;
+        float:none
+    }
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.one1{
+    background-color: yellow;
+    margin: 5px;
+    height: 150px;
+    width: 100%;
+}
+.one2{
+    background-color: rgb(117, 6, 6);
+    margin: 5px;
+    height: 100px;
+    width: 30%;
+}.one3{
+    background-color: rgb(0, 255, 4);
+    margin: 5px;
+    height: 100px;
+    width: 30%;
+}.one4{
+    background-color: rgb(0, 26, 255);
+    margin: 5px;
+    height: 100px;
+    width: 30%;
+}
+@media (max-width: 991.98px){
+    .one1{
+        
+            background-color: rgb(0, 255, 102);
+            margin: 5px;
+            height: 150px;
+            width: 200px;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 991.98px){
+    .one2{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 991.98px){
+    .one3{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100%;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 991.98px){
+    .one4{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 650.98px){
+    .one1{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 650.98px){
+    .one2{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 650.98px){
+    .one3{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+            flex-basis: 100%;
+        
+    }
+}
+@media (max-width: 650.98px){
+    .one4{
+        
+            background-color: yellow;
+            margin: 5px;
+            height: 100px;
+            width: 100px;
+            flex-basis: 100%;
+        
+    }
+}
