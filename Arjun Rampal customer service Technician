@@ -1,0 +1,271 @@
+<pre>{
+  "recent-requests" : [
+    {
+      "time"       : "Tuesday, January 31st, 01:12:09",
+      "request-id" : 123755729384,
+      "type"       : "GET",
+      "product-name" : "Amazon Echo",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "We loved it!", "So much fun.", "Broke on the first try."
+      ],
+      "customer-ratings" : [5, 5, 4, 2]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:13:01",
+      "request-id" : 4973547643580345,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Stick",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:15:44",
+      "request-id" : 387634687292,
+      "type"       : "GET",
+      "product-name" : "Amazon Echo",
+      "color"       : "White",
+      "customer-reviews": [
+        "Great product.", ""
+      ],
+      "customer-ratings" : []
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:18:12",
+      "request-id" : 123829304729393,
+      "type"       : "GET",
+      "product-name" : "Amazon Cube",
+      "color"       : "Black",
+      "customer-reviews": [
+        "", "We loved it!"
+      ],
+      "customer-ratings" : [4, 5, 5, 4, 4]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:18:16",
+      "request-id" : 984278954987345,
+      "type"       : "GET",
+      "product-name" : "Amazon Kindle",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:18:40",
+      "request-id" : 2302387590203,
+      "type"       : "GET",
+      "product-name" : "Amazon Kindle Fire",
+      "color"       : "Black",
+      "customer-reviews": [
+        "World class reading experience.", "Doesn't even hurt the eyes!"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:22:02",
+      "request-id" : 4585820283756,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Phone",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Best call quality I have ever used!", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5, 4, 3]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:23:01",
+      "request-id" : 19837650193,
+      "type"       : "GET",
+      "product-name" : "Amazon Echo Dot",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Such great sound quality for such a small device!"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:23:08",
+      "request-id" : 09275019013,
+      "type"       : "GET",
+      "product-name" : "Amazon Echo Show",
+      "color"       : "Black",
+      "customer-reviews": [
+        "So much fun to use.", "Changed my life!"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:24:33",
+      "request-id" : 09187935687920932789,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Stick",
+      "color"       : "Black",
+      "customer-reviews": [
+        "", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:25:01",
+      "request-id" : 189375892807379,
+      "type"       : "GET",
+      "product-name" : "Amazon Kindle",
+      "color"       : "Grey",
+      "customer-reviews": [
+        "Better than books!", "Endless supply of books."
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:25:09",
+      "request-id" : 1937895962082,
+      "type"       : "GET",
+      "product-name" : "Amazon Kindle",
+      "color"       : "Black",
+      "customer-reviews": [
+        "So much better than books.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:25:16",
+      "request-id" : 20832879570820,
+      "type"       : "GET",
+      "product-name" : "Amazon Echo",
+      "color"       : "Grey",
+      "customer-reviews": [
+        "Great product.", "Awesome job", "Best product in years!"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:25:50",
+      "request-id" : 259025702082803,
+      "type"       : "GET",
+      "product-name" : "Amazon Cube",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "", "The most fun we have had in years!"
+      ],
+      "customer-ratings" : [5, 5, 4]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:26:55",
+      "request-id" : 202378953289723,
+      "type"       : "GET",
+      "product-name" : "Amazon Cube",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:27:23",
+      "request-id" : 1230753290509,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Phone",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5, 2, 3, 4]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:28:13",
+      "request-id" : 19030767890230,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Stick",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job", "Watched all night!", "Great quality."
+      ],
+      "customer-ratings" : [5, 5, 5, 4]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:29:45",
+      "request-id" : 930020293875711,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Phone",
+      "color"       : "Grey",
+      "customer-reviews": [
+        "Great product."
+      ],
+      "customer-ratings" : []
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:29:55",
+      "request-id" : 4320202028479847,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire TV",
+      "color"       : "Grey",
+      "customer-reviews": [
+        "Great product.", "Awesome job.", "Great for the kids."
+      ],
+      "customer-ratings" : [5, 5, 4]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:29:59",
+      "request-id" : 895789210122328,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Stick",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:39:10",
+      "request-id" : 988745797929823789,
+      "type"       : "GET",
+      "product-name" : "Amazon Cube",
+      "color"       : "Grey",
+      "customer-reviews": [
+        "Great product.", "Awesome job"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:39:11",
+      "request-id" : 2359858792379837,
+      "type"       : "GET",
+      "product-name" : "Amazon Fire Phone",
+      "color"       : "Grey",
+      "customer-reviews": [
+        "Great product.", "Awesome job", "World class"
+      ],
+      "customer-ratings" : [5, 5]
+    },
+    {
+      "time"       : "Tuesday, January 31st, 01:39:40",
+      "request-id" : 122391712983,
+      "type"       : "GET",
+      "product-name" : "Amazon Echo",
+      "color"       : "Black",
+      "customer-reviews": [
+        "Great product.", "Awesome job.", "Wild product."
+      ],
+      "customer-ratings" : [5, 5, 4]
+    }
+  ]
+  ...
+  ...
+}
+
+
+----------------------------------------------------
+Broken requests
+
+"request-id" : 387634687292,
+"request-id" : 123829304729393,
+"request-id" : 4585820283756,
+"request-id" : 20832879570820,
+"request-id" : 1230753290509,
+"request-id" : 2359858792379837,
+</pre>
